@@ -1,6 +1,6 @@
 # 📺 Netflix EDA Project
 
-Welcome to the **Netflix Dataset Exploratory Data Analysis (EDA)** project by **K YASHWANTH**.
+Welcome to the **Netflix Dataset Exploratory Data Analysis (EDA)** project.
 
 This project performs an end-to-end exploratory analysis on the Netflix titles dataset. The goal is to uncover insights into the type of content available on Netflix, content distribution over the years, popular genres, countries, and more.
 
