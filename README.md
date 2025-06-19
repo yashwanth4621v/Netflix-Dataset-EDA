@@ -90,7 +90,6 @@ The dataset used is [`netflix_titles_with_duplicates.csv`](https://github.com/ya
 
 ## 🤝 Acknowledgements
 
-- Dataset source: [Kaggle - Netflix Movies and TV Shows](https://github.com/yashwanth4621v/Netflix-Dataset-EDA/blob/main/netflix_titles_with_duplicates.csv)
 - Tools used: Google Colab, Jupyter, Python libraries.
 
 ---
